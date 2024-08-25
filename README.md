@@ -1,2 +1,2 @@
-# MPPT
-MPPT_LiFePo4_Solar_charger
+# MPPT Solar Charger
+MPPT solar charger for a LiFePo4 battery pack. Together with the previous project, it can be used to charge a laptop. The core of the MPPT is formed by the BQ24650 integrated circuit along with FDMC86102L power MOSFET transistors. The compact size makes the device suitable for various modifications. The input and output terminals are model connectors that are easily available on the market.
